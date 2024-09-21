@@ -1,24 +1,15 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Abhiraj-Sardar.Abhiraj-Sardar" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Abhiraj+Sardar;A+Passionate+Software+Engineer;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Abhiraj+Sardar;A+Passionate+Software+Engineer;" />
 </h1>
 
-<h3 align="center">A passionate software Engineer from India</h3>
-
+<h3 align="center">A Passionate Software Engineer🧑🏻‍💻 from India</h3>
+<hr/>
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **Tech News Portal Website**
- 
- 🌱 I’m currently learning **MERN Stack**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
+<h4 align="center"><b>Software Engineer Trainee(Part Time) @PcsGlobal | Ex-Full Stack Developer Intern @EY | Ex-Software Developer @CodSoft | 🏆 Smart Bengal Hackathon 2023 | Rank 418🥇Naukri Campus DSA Contest  | Competative Programmer | 1⭐ CodeChef | Institute 102🥇 Rank GFG | 4⭐ HackerRank | Problem Solving Enthusiast 🧠| 200+ Problems Solved on DSA | HardCore DSA Enthusiast ❤️ | DSA & DEV </b>
+</b></h4>   
  
 <div align="center"> 
   <a href="mailto:abhirajsardar2003@gmail.com">
