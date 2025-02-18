@@ -1,4 +1,6 @@
 
+[![An image of @abhirajsardar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhirajsardar)](https://holopin.io/@abhirajsardar)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Abhiraj-Sardar.Abhiraj-Sardar"/>
 
 <h1 align="center">
