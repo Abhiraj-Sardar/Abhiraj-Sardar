@@ -48,12 +48,19 @@
 <br/>
 <h2 align="center">⚒️ My Skills ⚒️</h2>
 
-### Others:
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/ott.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/agile.jpg" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/jira.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/bitmovin.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/kaltura.png" height="30"></code>
+### Languages:
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/language/cpp.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/language/js.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/language/java.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/language/python.png" height="50"></code>
+
+### Backend/Server:
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/backend/django.png" height="30"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/backend/javaee.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/backend/springboot.png" height="30"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/backend/node.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/backend/php.png" height="30"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/backend/streamlit.png" height="50"></code>
  
 <br/>
 
