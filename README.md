@@ -61,10 +61,34 @@
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/backend/node.png" height="50"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/backend/php.png" height="30"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/backend/streamlit.png" height="50"></code>
- 
-<br/>
 
-<br/>
+### Frontend:
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/frontend/html.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/frontend/css.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/frontend/reactjs.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/frontend/vite.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/frontend/tailwind.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/frontend/bootstrap.png" height="50"></code>
+
+## Database:
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/db/mysql.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/db/mongodb.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/db/appwrite.png" height="50"></code>
+
+## Devops:
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/devops/git.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/devops/github.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/devops/docker.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/devops/aws.png" height="50"></code>
+
+ ## AI/ML:
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/ml/scikitlearn.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/ml/tensorflow.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/ml/huggingface.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/ml/ml5js.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/ml/jupyter.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/ml/tensorjs.png" height="50"></code>
+
 <hr/>
 
 <div>
