@@ -90,6 +90,22 @@
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/ml/tensorjs.png" height="50"></code>
 
 <hr/>
+<br/>
+
+## Work Experience :computer_mouse: :desktop_computer: :keyboard:
+
+| 💼 Designation |  🏢Organization | ⏰Timeline  |
+| :-: | :-: | :-: |
+| Open Source Developer | [@SWOC](https://www.swoc.in/) | Jan 2025 - Mar 2025 |
+| Open Source Developer | [@HacktoberFest](https://hacktoberfest.com) | Oct 2024 - Oct 2024 |
+| Software Engineer - Trainee | [@PcsGlobal](http://www.pcsglobal.in) | Sep 2024 - Oct 2024 |
+| SDE Intern | [@EY](http://www.ey.com) | Feb 2024 - Apr 2024 |
+| Summer Intern | [@Linde](http://www.linde.com) | Feb 2024 - Apr 2024 |
+| ReactJs Developer Intern | [@CodSoft](https://codsoft.in/) | Dec 2023 - Jan 2024 |
+| Web Developer Intern | [@The Spark Foundation](https://thesparksfoundationsingapore.org) | Nov 2023 - Dec 2023 |
+
+
+<hr/>
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
