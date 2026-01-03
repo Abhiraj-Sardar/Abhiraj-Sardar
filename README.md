@@ -125,12 +125,7 @@
 
  ![Abhiraj-Sardar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhiraj-Sardar&theme=vue-dark&hide_border=true)
 
- ![Abhiraj-Sardar's Stats](https://github-readme-stats.vercel.app/api?username=Abhiraj-Sardar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  
-  <br/>
 
-![Abhiraj-Sardar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiraj-Sardar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-  
 </div>
 
 <br/><br/>
