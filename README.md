@@ -139,8 +139,18 @@
 
 <br/>
 
+## 🤝 Ping Me!
+Always excited to discuss:
+- Distributed systems (and their distributed problems)
+- Scale challenges (both technical and coffee-based)
+- Why documentation is like vegetables - everyone knows it's good for you, but...
+
+Let's connect on [LinkedIn](https://www.linkedin.com/in/abhirajsardar2003/)
+
+## P.S. If the dinosaur below isn't running, that's when you know production is down
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+ 
+![](https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/dino.gif)
 </div>
 
 <br/>
