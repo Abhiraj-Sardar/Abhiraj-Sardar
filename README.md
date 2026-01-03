@@ -9,7 +9,7 @@
 <hr/>
 <br/>
 
-<h4 align="center"><b>Software Engineer Trainee(Part Time) @PcsGlobal | Ex-Full Stack Developer Intern @EY | Ex-Software Developer @CodSoft | 🏆 Smart Bengal Hackathon 2023 | Rank 418🥇Naukri Campus DSA Contest  | Competative Programmer | 1⭐ CodeChef | Institute 102🥇 Rank GFG | 4⭐ HackerRank | Problem Solving Enthusiast 🧠| 200+ Problems Solved on DSA | HardCore DSA Enthusiast ❤️ | DSA & DEV </b>
+<h4 align="center"><b>Software Engineer @SMS | Ex-Full Stack Developer Intern @EY | Ex-Software Developer @CodSoft | 🏆 Smart Bengal Hackathon 2023 | Rank 418🥇Naukri Campus DSA Contest  | Competative Programmer | 1⭐ CodeChef | Institute 102🥇 Rank GFG | 4⭐ HackerRank | Problem Solving Enthusiast 🧠| 200+ Problems Solved on DSA | HardCore DSA Enthusiast ❤️ | DSA & DEV </b>
 </b></h4>   
  
 <div align="center"> 
