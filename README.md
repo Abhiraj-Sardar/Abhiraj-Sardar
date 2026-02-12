@@ -50,6 +50,7 @@
 
 ### Languages:
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/language/cpp.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/language/csharp.png" height="50"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/language/js.png" height="50"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/language/java.png" height="50"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/language/python.png" height="50"></code>
@@ -61,6 +62,7 @@
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/backend/node.png" height="50"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/backend/php.png" height="30"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/backend/streamlit.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/backend/dotnet.png" height="70"></code>
 
 ### Frontend:
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/frontend/html.png" height="50"></code>
@@ -69,17 +71,22 @@
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/frontend/vite.png" height="50"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/frontend/tailwind.png" height="50"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/frontend/bootstrap.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/frontend/typescript.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/frontend/angularjs.png" height="50"></code>
 
 ## Database:
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/db/mysql.png" height="50"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/db/mongodb.png" height="50"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/db/appwrite.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/db/postgresql.png" height="70"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/db/mssql.png" height="50"></code>
 
 ## Devops:
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/devops/git.png" height="50"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/devops/github.png" height="50"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/devops/docker.png" height="50"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/devops/aws.png" height="50"></code>
+<code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/devops/rabbitmq.png" height="70"></code>
 
  ## AI/ML:
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/ml/scikitlearn.png" height="50"></code>
@@ -96,6 +103,7 @@
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
+| SWE Intern | [@SMS-Group](https://www.sms-group.com/) | Jan 2026 - Present |
 | Open Source Developer | [@SWOC](https://www.swoc.in/) | Jan 2025 - Mar 2025 |
 | Open Source Developer | [@HacktoberFest](https://hacktoberfest.com) | Oct 2024 - Oct 2024 |
 | Software Engineer - Trainee | [@PcsGlobal](http://www.pcsglobal.in) | Sep 2024 - Oct 2024 |
