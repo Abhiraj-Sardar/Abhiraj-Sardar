@@ -34,13 +34,13 @@
  
  ## 🙋‍♂️ About Me
 
-- 🥋 I'm very Passionate About The Software Engineer/SDE/SWE Roles. I'm always ready to learn new things with Effective ideas. Hardcore DSA Enthusiast ❤️.
+- 🥋 I'm very Passionate About SDE/SWE Roles. I'm always ready to learn new things with Effective ideas. Hardcore DSA Enthusiast ❤️.
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 - 🎯 Cracked 12+ Internships and 10+ job offers during my 2nd Year.
 - 👁‍🗨 Open Source Contributor  
 - 🏆 6th at Smart Bengal Hackathon 2023
 - 🚀 Passionate About Crafting Efficient Code and Solving Real Life Business Problems. 
-- 📘 I’m Currently Studying **Devops & Cloud**
+- 📘 I’m Currently Studying **AI & Deep Learning**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - ⚡ For Fun **Games, Rosting, Mems, HipHop**
 
