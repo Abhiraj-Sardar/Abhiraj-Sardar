@@ -35,18 +35,15 @@
 
 
  
----
 
 > [!Tip]<br/>
-
-> 👀 Love to do SWE/SDE Stuffs.<br/>
-> 👁‍🗨 Open Source Contributor  <br/>
-> 🎯 Cracked 12+ Internships and 10+ job offers during my 2nd Year.<br/>
-> 🏆 6th at Smart Bengal Hackathon 2023<br/>
-> 📘 I’m Currently Studying **AI & Deep Learning**<br/>
+> 👀 Let's Connect to collaborate.<br/>
+> 🫴 Let's Contribute together<br/>
+> 👍 Like some Repos <br/>
+> 🏆 Checkout My Portfolio (Coming Soon)<br/>
+> 📘 Discuss About **AI & Deep Learning**<br/>
 > 🚀 Passionate About Crafting Efficient Code and Solving Real Life Business Problems. 
 
----
 
 <br/>
 <h2 align="center">⚒️ My Skills ⚒️</h2>
@@ -77,21 +74,21 @@
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/frontend/typescript.png" height="50"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/frontend/angularjs.png" height="50"></code>
 
-## Database:
+### Database:
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/db/mysql.png" height="50"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/db/mongodb.png" height="50"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/db/appwrite.png" height="50"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/db/postgresql.png" height="70"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/db/mssql.png" height="50"></code>
 
-## Devops:
+### Devops:
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/devops/git.png" height="50"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/devops/github.png" height="50"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/devops/docker.png" height="50"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/devops/aws.png" height="50"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/devops/rabbitmq.png" height="70"></code>
 
- ## AI/ML:
+ ### AI/ML:
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/ml/scikitlearn.png" height="50"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/ml/tensorflow.png" height="50"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/ml/huggingface.png" height="50"></code>
@@ -99,7 +96,6 @@
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/ml/jupyter.png" height="50"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/ml/tensorjs.png" height="50"></code>
 
-<hr/>
 <br/>
 
 ## Work Experience :computer_mouse: :desktop_computer: :keyboard:
@@ -133,8 +129,6 @@
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/opensource/14.png" height="120"></code>
 <code><img src="https://github.com/Abhiraj-Sardar/Abhiraj-Sardar/blob/main/img/opensource/15.png" height="120"></code>
 
-
-<hr/>
 <br/>
 <br/>
 <div>
@@ -144,7 +138,6 @@
   </a>
 </div>
 
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -158,8 +151,6 @@
 </div>
 
 <br/><br/>
-
-<hr/>
 
 <br/>
 
