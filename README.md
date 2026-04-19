@@ -3,6 +3,14 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Abhiraj+Sardar;A+Passionate+Software+Engineer;" />
 </h1>
 
+---
+
+> [!TIP]
+> I have many interesting projects!  
+> Please, check them out on [***my website***](https://medv.io/projects).
+
+---
+
 [![An image of @abhirajsardar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhirajsardar)](https://holopin.io/@abhirajsardar)
 
 <h3 align="center">A Passionate Software Engineer🧑🏻‍💻 from India</h3>
