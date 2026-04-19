@@ -1,15 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Abhiraj-Sardar.Abhiraj-Sardar"/>
-<h1 align="center">
+<br/>
+<!-- <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Abhiraj+Sardar;A+Passionate+Software+Engineer;" />
-</h1>
+</h1> -->
 
----
-
-> [!TIP]
-> I have many interesting projects!  
-> Please, check them out on [***my website***](https://medv.io/projects).
-
----
 
 [![An image of @abhirajsardar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhirajsardar)](https://holopin.io/@abhirajsardar)
 
@@ -37,21 +31,22 @@
   </a> 
 </div>
 
- <hr/>
  <br/> 
+
+
  
- ## 🙋‍♂️ About Me
+---
 
-- 🥋 I'm very Passionate About SDE/SWE Roles. I'm always ready to learn new things with Effective ideas. Hardcore DSA Enthusiast ❤️.
-- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
-- 🎯 Cracked 12+ Internships and 10+ job offers during my 2nd Year.
-- 👁‍🗨 Open Source Contributor  
-- 🏆 6th at Smart Bengal Hackathon 2023
-- 🚀 Passionate About Crafting Efficient Code and Solving Real Life Business Problems. 
-- 📘 I’m Currently Studying **AI & Deep Learning**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- ⚡ For Fun **Games, Rosting, Mems, HipHop**
+> [!Tip]<br/>
 
+> 👀 Love to do SWE/SDE Stuffs.<br/>
+> 👁‍🗨 Open Source Contributor  <br/>
+> 🎯 Cracked 12+ Internships and 10+ job offers during my 2nd Year.<br/>
+> 🏆 6th at Smart Bengal Hackathon 2023<br/>
+> 📘 I’m Currently Studying **AI & Deep Learning**<br/>
+> 🚀 Passionate About Crafting Efficient Code and Solving Real Life Business Problems. 
+
+---
 
 <br/>
 <h2 align="center">⚒️ My Skills ⚒️</h2>
@@ -112,8 +107,6 @@
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
 | SWE Intern | [@SMS-Group](https://www.sms-group.com/) | Jan 2026 - Present |
-| Open Source Developer | [@SWOC](https://www.swoc.in/) | Jan 2025 - Mar 2025 |
-| Open Source Developer | [@HacktoberFest](https://hacktoberfest.com) | Oct 2024 - Oct 2024 |
 | Software Engineer - Trainee | [@PcsGlobal](http://www.pcsglobal.in) | Sep 2024 - Oct 2024 |
 | SDE Intern | [@EY](http://www.ey.com) | Feb 2024 - Apr 2024 |
 | Summer Intern | [@Linde](http://www.linde.com) | Feb 2024 - Apr 2024 |
