@@ -112,6 +112,10 @@
 | ReactJs Developer Intern | [@CodSoft](https://codsoft.in/) | Dec 2023 - Jan 2024 |
 | Web Developer Intern | [@The Spark Foundation](https://thesparksfoundationsingapore.org) | Nov 2023 - Dec 2023 |
 
+<br/>
+<br/>
+<h2 align="center">⚒️ Open Source Contributions ⚒️</h2>
+
 
 <hr/>
 <br/>
